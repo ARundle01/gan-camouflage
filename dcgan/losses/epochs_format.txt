@@ -1,0 +1,1 @@
+epoch_number, disc_loss, gen_loss
