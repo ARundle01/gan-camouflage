@@ -1,5 +1,9 @@
 # gan-camouflage
 
+![GitHub](https://img.shields.io/github/license/ARundle01/gan-camouflage)
+![GitHub repo size](https://img.shields.io/github/repo-size/ARundle01/gan-camouflage)
+![GitHub top language](https://img.shields.io/github/languages/top/ARundle01/gan-camouflage)
+
 ## This is my 3rd Year University project code, as it was too large to submit via the online submission portal
 
 To understand the work the went into the implementations (as well as the underlying science) the literature review and final dissertation are available in `./papers`.
