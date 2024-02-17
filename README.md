@@ -6,7 +6,7 @@
 
 ## This is my 3rd Year University project code, as it was too large to submit via the online submission portal
 
-To understand the work the went into the implementations (as well as the underlying science) the literature review and final dissertation are available in `./papers`.
+To understand the work the went into the implementations (as well as the underlying science) the literature review and final dissertation are available [here](./papers).
 
 The aim of this project was to research and investigate the use of Generative Adversarial Networks when applied to the generation of camouflage.
 
